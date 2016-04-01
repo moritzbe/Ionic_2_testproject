@@ -1,9 +1,14 @@
-.getting-started {
+$font-stack: Helvetica, sans-serif;
+$primary-color: #505050;
 
-  p {
-    margin: 20px 0;
-    line-height: 22px;
-    font-size: 16px;
-  }
 
+#img-container {
+	position: absolute;
+	left: 50%;
 }
+
+button {
+	position: relative;
+	left: -50%;
+}	
+
